@@ -1,0 +1,5 @@
+pedal_board.o: src/pedal_board.c inc/mcp2515.h inc/mcp2515_defs.h \
+ inc/global.h inc/defaults.h inc/global.h inc/mcp2515_defs.h \
+ inc/can_ids.h
+mcp2515.o: src/mcp2515.c inc/mcp2515.h inc/mcp2515_defs.h inc/global.h \
+ inc/mcp2515_defs.h inc/global.h inc/defaults.h

@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "interrupt.h": "c",
+        "delay.h": "c",
+        "io.h": "c",
+        "twi.h": "c",
+        "mcp2515.h": "c",
+        "eeprom.h": "c"
+    },
+    "python.pythonPath": "/usr/bin/python3.6"
+}
